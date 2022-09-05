@@ -1,0 +1,21 @@
+.parent{
+    display: flex;
+}
+.products{
+    flex: 3;
+}
+.side-menu{
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px 40px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    padding: 20px;
+    height: max-content;
+}
+#purchase{
+    width: 100%;
+}

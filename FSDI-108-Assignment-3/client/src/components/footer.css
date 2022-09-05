@@ -1,0 +1,13 @@
+.footer{
+    color: aliceblue;
+    border-top: 1px solid gray;
+    text-align: center;
+    background-color: #1f2532;
+    min-height: 30vh; 
+}
+.footer div{
+    margin: 20px;
+}
+.footer a{
+    margin: 5px;
+}

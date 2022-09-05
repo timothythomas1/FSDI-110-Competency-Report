@@ -1,0 +1,9 @@
+.admin .parent {
+    display: flex;
+}
+.admin .parent .products{
+    flex: 1;
+}
+.admin .parent .list{
+    flex: 1;
+}
